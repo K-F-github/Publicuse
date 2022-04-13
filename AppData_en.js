@@ -1,5 +1,5 @@
 {
-	"version":"5.18.1(713)",
+	"version":"5.18.1(713)",
 	"OSVersion":"5.0",
 	"deviceType":"Android",
 	"language":"en",
