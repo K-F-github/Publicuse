@@ -1,6 +1,6 @@
 {
 	"version":"5.57.0(936)",
-	"OSVersion":"10.0",
+	"OSVersion":"10",
 	"deviceType":"Android",
 	"language":"zh-hant",
 	"Accept-Encoding":"gzip",
